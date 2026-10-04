@@ -218,3 +218,32 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ProjectPrayoga - Trained models
+*.pkl
+*.joblib
+
+# ProjectPrayoga - Dataset
+*.csv
+*.zip
+
+# Project-generated files
+*.log
+*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
