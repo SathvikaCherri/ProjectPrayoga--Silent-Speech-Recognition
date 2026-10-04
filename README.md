@@ -1,5 +1,4 @@
 # ProjectPrayoga--Silent-Speech-Recognition
-# Project Prayoga
 
 ### Wearable Silent Speech Recognition Using IMU and Piezoelectric Sensing
 
